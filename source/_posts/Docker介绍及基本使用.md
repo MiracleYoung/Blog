@@ -1,6 +1,6 @@
 ---
 title: Docker介绍及基本使用
-tags: 技术
+tags: docker
 comments: true
 categories:
   - 技术

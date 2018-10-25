@@ -1,6 +1,6 @@
 ---
 title: Docker存储卷
-tags: 技术
+tags: docker
 comments: true
 categories:
   - 技术

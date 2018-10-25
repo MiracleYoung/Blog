@@ -1,6 +1,6 @@
 ---
 title: Docker容器基本操作
-tags: 技术
+tags: docker
 comments: true
 categories:
   - 技术

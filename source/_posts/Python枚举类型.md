@@ -1,6 +1,6 @@
 ---
 title: Python枚举类型
-tags: Python
+tags: python
 comments: true
 categories:
   - 技术
